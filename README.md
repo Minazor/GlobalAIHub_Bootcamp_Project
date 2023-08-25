@@ -80,6 +80,28 @@
 
 ![image](https://github.com/Minazor/GlobalAIHub_Bootcamp_Project/assets/33224492/cb137182-5e4c-4931-a5ac-6eebe416fd8e)
 
+<h1>Model Scores and Comments:</h1>
+<h2>Model: Linear Regression</h2>
+Model Score: 0.7441781064585251
+Mean Squared Error: 0.0377726981136018
+Mean Absolute Error: 0.11574108284292886
+
+<h2>Model: Decision Tree</h2>
+Model Score: 1.0
+Mean Squared Error: 0.014925373134328358
+Mean Absolute Error: 0.014925373134328358
+
+<h2>Model: Random Forest</h2>
+Model Score: 0.9863045721925133
+Mean Squared Error: 0.012483955223880594
+Mean Absolute Error: 0.02414179104477612
+
+<h2>Model: Gradient Boosting</h2>
+Model Score: 0.9813266103565634
+Mean Squared Error: 0.014679694859181813
+Mean Absolute Error: 0.03190696330982849
+
+<p>Based on the results and evaluation metrics, the Random Forest model stands out as the most effective in predicting outcomes with low errors. The model scores also solidify this inference. However, the perfect score of the Decision Tree model is concerning, as it hints at potential overfitting. Gradient Boosting, with its impressive results and score, serves as a reliable alternative to Random Forest.</p>
 
 <h2>Tools Used</h2>
 <ul>
